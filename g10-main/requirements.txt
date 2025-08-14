@@ -1,0 +1,16 @@
+numpy
+torch
+torchvision
+opencv-python
+pycocotools
+timm
+transformers
+tensorflow
+prettytable
+streamlit
+io
+datasets
+pillow
+albumentations
+matplotlib
+torchmetrics
