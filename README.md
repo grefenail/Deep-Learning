@@ -28,30 +28,27 @@ The project includes:
   - Combines a ResNet-50 backbone with a transformer encoder–decoder.
   - Uses attention on features extracted from the backbone.
 
----
 
 ## 📂 Repository Structure
 ```
-
 g10-main/
 │
 ├── src/                          # Source notebooks and scripts
 │   ├── Cnn.ipynb                  # Fine-tuning Faster R-CNN for object detection
 │   ├── MaskRCNN.ipynb             # Fine-tuning Mask R-CNN for segmentation
-│   ├── evaluate\_detr.ipynb        # Evaluate DETR (pre-trained and fine-tuned)
-│   ├── finetune\_detr.ipynb        # Fine-tune DETR on Fashionpedia
-│   ├── pretrained\_detr\_coco.ipynb # Fine-tune DETR on COCO dataset
+│   ├── evaluate_detr.ipynb        # Evaluate DETR (pre-trained and fine-tuned)
+│   ├── finetune_detr.ipynb        # Fine-tune DETR on Fashionpedia
+│   ├── pretrained_detr_coco.ipynb # Fine-tune DETR on COCO dataset
 │
 ├── test/                          # Dashboard for results visualization
 │   └── app.py
 │
 ├── requirements.txt               # Python dependencies
-├── requirements\_list.txt          # Alternative dependency list
+├── requirements_list.txt          # Alternative dependency list
 ├── README.md                      # Project documentation
 
 ````
 
----
 
 ## ⚙️ Installation
 
