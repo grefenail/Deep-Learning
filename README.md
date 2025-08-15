@@ -30,7 +30,7 @@ The project includes:
 
 
 ## 📂 Repository Structure
-```
+
 g10-main/
 │
 ├── src/                          # Source notebooks and scripts
@@ -47,7 +47,6 @@ g10-main/
 ├── requirements_list.txt          # Alternative dependency list
 ├── README.md                      # Project documentation
 
-````
 
 
 ## ⚙️ Installation
